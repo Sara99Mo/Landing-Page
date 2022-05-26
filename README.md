@@ -39,7 +39,8 @@ For this project, you will be writing most of your code in `js/app.js`. Note tha
 
 ## Final Project Interface
 [(Back to top)](#table-of-contents)
+
 ![Output](https://github.com/Sara99Mo/Landing-Page/blob/main/img/Final_Project.png)
 
-![Output](https://github.com/Sara99Mo/Landing-Page/blob/main/img/Final_Project2.png)
+![Output](https://github.com/Sara99Mo/Landing-Page/blob/main/img/Final_Project_2.png)
 **_All Copyrights to Udacity & Developer Sara_**
